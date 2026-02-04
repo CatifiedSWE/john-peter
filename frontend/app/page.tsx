@@ -48,21 +48,21 @@ export default function Home() {
                     <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-serif italic text-white leading-tight">
                       The Anatomy <br /> of Scale
                     </h2>
-                    <p className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] tracking-widest uppercase text-slate-400 max-w-[160px] md:max-w-[200px] lg:max-w-[260px] xl:max-w-[320px] leading-relaxed">
+                    <p className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-slate-400 max-w-[120px] md:max-w-[160px] lg:max-w-[220px] xl:max-w-[280px] 2xl:max-w-[320px] leading-relaxed">
                       From zero to high-eight figures. The JP methodology revealed.
                     </p>
                   </div>
 
-                  <div className="pt-4 md:pt-6 lg:pt-10 xl:pt-12 space-y-2 md:space-y-3 lg:space-y-4">
-                    <span className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] tracking-widest uppercase text-primary font-semibold block">
+                  <div className="pt-2 md:pt-4 lg:pt-8 xl:pt-10 2xl:pt-12 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
+                    <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary font-semibold block">
                       The Bottom Line
                     </span>
                     <div className="flex items-baseline gap-1">
-                      <span className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-display text-white">₹5Cr<span className="text-primary">+</span></span>
+                      <span className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-display text-white">₹5Cr<span className="text-primary">+</span></span>
                     </div>
-                    <div className="flex items-center gap-2 lg:gap-3">
-                      <div className="h-px w-4 md:w-6 lg:w-8 bg-slate-600"></div>
-                      <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] tracking-widest uppercase text-slate-400">
+                    <div className="flex items-center gap-1.5 md:gap-2 lg:gap-3">
+                      <div className="h-px w-3 md:w-4 lg:w-6 xl:w-8 bg-slate-600"></div>
+                      <span className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] 2xl:text-[10px] tracking-widest uppercase text-slate-400">
                         Direct Revenue Scaled / 2024
                       </span>
                     </div>
