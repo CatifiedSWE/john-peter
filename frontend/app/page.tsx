@@ -34,18 +34,18 @@ export default function Home() {
           </div>
 
           {/* Main Content - Desktop Grid Layout */}
-          <div className="relative z-20 w-full max-w-[1800px] mx-auto px-2 md:px-4 lg:px-8 xl:px-12">
-            {/* Desktop 3-column grid layout - adjusted for mid-size screens */}
-            <div className="hidden md:grid md:grid-cols-[minmax(180px,1fr)_minmax(220px,320px)_minmax(180px,1fr)] lg:grid-cols-[minmax(220px,1fr)_minmax(280px,380px)_minmax(220px,1fr)] xl:grid-cols-[1fr_minmax(350px,450px)_1fr] 2xl:grid-cols-[1fr_minmax(400px,500px)_1fr] gap-2 md:gap-4 lg:gap-6 xl:gap-10 2xl:gap-12 items-center min-h-[80vh]">
+          <div className="relative z-20 w-full max-w-[1800px] mx-auto px-4 md:px-6 lg:px-10 xl:px-12">
+            {/* Desktop 3-column grid layout - adjusted for all screen sizes */}
+            <div className="hidden md:grid md:grid-cols-[minmax(140px,260px)_minmax(200px,280px)_minmax(140px,260px)] lg:grid-cols-[minmax(180px,320px)_minmax(260px,360px)_minmax(180px,320px)] xl:grid-cols-[minmax(240px,400px)_minmax(320px,420px)_minmax(240px,400px)] 2xl:grid-cols-[1fr_minmax(400px,500px)_1fr] gap-3 md:gap-4 lg:gap-6 xl:gap-8 2xl:gap-12 items-center min-h-[80vh]">
               
               {/* Left Content */}
-              <div className="flex flex-col justify-center z-30 pr-2 md:pr-3 lg:pr-6 xl:pr-8">
-                <div className="space-y-3 md:space-y-4 lg:space-y-6">
-                  <div className="space-y-1.5 md:space-y-2 lg:space-y-3">
-                    <span className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] tracking-widest uppercase text-primary font-semibold">
+              <div className="flex flex-col justify-center z-30 pr-1 md:pr-2 lg:pr-4 xl:pr-6 overflow-hidden">
+                <div className="space-y-2 md:space-y-3 lg:space-y-5 xl:space-y-6">
+                  <div className="space-y-1 md:space-y-1.5 lg:space-y-2 xl:space-y-3">
+                    <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary font-semibold">
                       The Cover Story
                     </span>
-                    <h2 className="text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl font-serif italic text-white leading-tight">
+                    <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-serif italic text-white leading-tight">
                       The Anatomy <br /> of Scale
                     </h2>
                     <p className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] tracking-widest uppercase text-slate-400 max-w-[160px] md:max-w-[200px] lg:max-w-[260px] xl:max-w-[320px] leading-relaxed">
