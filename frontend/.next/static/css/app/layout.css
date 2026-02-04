@@ -1690,6 +1690,9 @@ video {
 .mt-1\.5 {
   margin-top: 0.375rem;
 }
+.mt-1 {
+  margin-top: 0.25rem;
+}
 .block {
   display: block;
 }
@@ -1756,6 +1759,9 @@ video {
 .w-4 {
   width: 1rem;
 }
+.w-10 {
+  width: 2.5rem;
+}
 .max-w-\[1800px\] {
   max-width: 1800px;
 }
@@ -1776,6 +1782,9 @@ video {
 }
 .max-w-\[120px\] {
   max-width: 120px;
+}
+.max-w-\[100px\] {
+  max-width: 100px;
 }
 .flex-grow {
   flex-grow: 1;
@@ -1937,6 +1946,10 @@ video {
   padding-top: 0.125rem;
   padding-bottom: 0.125rem;
 }
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
 .pb-8 {
   padding-bottom: 2rem;
 }
@@ -1966,6 +1979,12 @@ video {
 }
 .pr-1 {
   padding-right: 0.25rem;
+}
+.pl-1 {
+  padding-left: 0.25rem;
+}
+.pt-1 {
+  padding-top: 0.25rem;
 }
 .text-center {
   text-align: center;
@@ -2317,6 +2336,10 @@ video {
     margin-top: 1rem;
   }
 
+  .md\:mt-1\.5 {
+    margin-top: 0.375rem;
+  }
+
   .md\:block {
     display: block;
   }
@@ -2345,12 +2368,20 @@ video {
     width: 1rem;
   }
 
+  .md\:w-12 {
+    width: 3rem;
+  }
+
   .md\:max-w-\[200px\] {
     max-width: 200px;
   }
 
   .md\:max-w-\[160px\] {
     max-width: 160px;
+  }
+
+  .md\:max-w-\[130px\] {
+    max-width: 130px;
   }
 
   .md\:grid-cols-\[1fr_minmax\(280px\2c 400px\)_1fr\] {
@@ -2371,6 +2402,10 @@ video {
 
   .md\:gap-2 {
     gap: 0.5rem;
+  }
+
+  .md\:gap-1\.5 {
+    gap: 0.375rem;
   }
 
   .md\:space-y-2 > :not([hidden]) ~ :not([hidden]) {
@@ -2428,6 +2463,11 @@ video {
     padding-right: 1.5rem;
   }
 
+  .md\:px-1\.5 {
+    padding-left: 0.375rem;
+    padding-right: 0.375rem;
+  }
+
   .md\:pr-3 {
     padding-right: 0.75rem;
   }
@@ -2446,6 +2486,14 @@ video {
 
   .md\:pr-2 {
     padding-right: 0.5rem;
+  }
+
+  .md\:pl-2 {
+    padding-left: 0.5rem;
+  }
+
+  .md\:pt-2 {
+    padding-top: 0.5rem;
   }
 
   .md\:text-4xl {
@@ -2511,6 +2559,14 @@ video {
     margin-top: 1.5rem;
   }
 
+  .lg\:mt-2 {
+    margin-top: 0.5rem;
+  }
+
+  .lg\:mt-4 {
+    margin-top: 1rem;
+  }
+
   .lg\:flex {
     display: flex;
   }
@@ -2539,6 +2595,10 @@ video {
     width: 2rem;
   }
 
+  .lg\:w-16 {
+    width: 4rem;
+  }
+
   .lg\:max-w-\[220px\] {
     max-width: 220px;
   }
@@ -2553,6 +2613,10 @@ video {
 
   .lg\:max-w-\[200px\] {
     max-width: 200px;
+  }
+
+  .lg\:max-w-\[180px\] {
+    max-width: 180px;
   }
 
   .lg\:grid-cols-\[1fr_minmax\(320px\2c 450px\)_1fr\] {
@@ -2581,6 +2645,10 @@ video {
 
   .lg\:gap-6 {
     gap: 1.5rem;
+  }
+
+  .lg\:gap-2 {
+    gap: 0.5rem;
   }
 
   .lg\:space-y-10 > :not([hidden]) ~ :not([hidden]) {
@@ -2650,6 +2718,11 @@ video {
     padding-right: 2.5rem;
   }
 
+  .lg\:px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
   .lg\:pl-8 {
     padding-left: 2rem;
   }
@@ -2680,6 +2753,14 @@ video {
 
   .lg\:pr-4 {
     padding-right: 1rem;
+  }
+
+  .lg\:pl-4 {
+    padding-left: 1rem;
+  }
+
+  .lg\:pt-4 {
+    padding-top: 1rem;
   }
 
   .lg\:text-2xl {
@@ -2743,6 +2824,10 @@ video {
     right: 1.5rem;
   }
 
+  .xl\:mt-6 {
+    margin-top: 1.5rem;
+  }
+
   .xl\:w-20 {
     width: 5rem;
   }
@@ -2761,6 +2846,10 @@ video {
 
   .xl\:max-w-\[280px\] {
     max-width: 280px;
+  }
+
+  .xl\:max-w-\[220px\] {
+    max-width: 220px;
   }
 
   .xl\:grid-cols-\[1fr_minmax\(380px\2c 500px\)_1fr\] {
@@ -2785,6 +2874,10 @@ video {
 
   .xl\:gap-8 {
     gap: 2rem;
+  }
+
+  .xl\:gap-3 {
+    gap: 0.75rem;
   }
 
   .xl\:space-y-12 > :not([hidden]) ~ :not([hidden]) {
@@ -2817,9 +2910,20 @@ video {
     margin-bottom: calc(1rem * var(--tw-space-y-reverse));
   }
 
+  .xl\:space-y-8 > :not([hidden]) ~ :not([hidden]) {
+    --tw-space-y-reverse: 0;
+    margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(2rem * var(--tw-space-y-reverse));
+  }
+
   .xl\:px-12 {
     padding-left: 3rem;
     padding-right: 3rem;
+  }
+
+  .xl\:px-3 {
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
 
   .xl\:pt-12 {
@@ -2844,6 +2948,14 @@ video {
 
   .xl\:pt-10 {
     padding-top: 2.5rem;
+  }
+
+  .xl\:pl-6 {
+    padding-left: 1.5rem;
+  }
+
+  .xl\:pt-6 {
+    padding-top: 1.5rem;
   }
 
   .xl\:text-6xl {
@@ -2886,6 +2998,11 @@ video {
     font-size: 2.25rem;
     line-height: 2.5rem;
   }
+
+  .xl\:text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
+  }
 }
 @media (min-width: 1536px) {
 
@@ -2895,6 +3012,10 @@ video {
 
   .\32xl\:max-w-\[320px\] {
     max-width: 320px;
+  }
+
+  .\32xl\:max-w-\[260px\] {
+    max-width: 260px;
   }
 
   .\32xl\:grid-cols-\[1fr_minmax\(400px\2c 500px\)_1fr\] {

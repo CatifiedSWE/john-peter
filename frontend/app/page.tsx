@@ -92,42 +92,42 @@ export default function Home() {
               </div>
 
               {/* Right Content */}
-              <div className="flex flex-col justify-center z-30 text-right pl-2 md:pl-3 lg:pl-6 xl:pl-8">
-                <div className="space-y-4 md:space-y-5 lg:space-y-8 xl:space-y-10">
-                  <div className="space-y-1.5 md:space-y-2 inline-block ml-auto">
-                    <span className="inline-block bg-primary text-background-dark px-1.5 md:px-2 lg:px-3 py-0.5 md:py-1 text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] font-bold tracking-widest uppercase">
+              <div className="flex flex-col justify-center z-30 text-right pl-1 md:pl-2 lg:pl-4 xl:pl-6 overflow-hidden">
+                <div className="space-y-2 md:space-y-4 lg:space-y-6 xl:space-y-8">
+                  <div className="space-y-1 md:space-y-1.5 inline-block ml-auto">
+                    <span className="inline-block bg-primary text-background-dark px-1 md:px-1.5 lg:px-2 xl:px-3 py-0.5 text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] font-bold tracking-widest uppercase">
                       Issue 042
                     </span>
-                    <h3 className="text-[9px] md:text-[10px] lg:text-xs italic font-serif text-slate-500 mt-1.5 md:mt-2">
+                    <h3 className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-xs italic font-serif text-slate-500 mt-1 md:mt-1.5 lg:mt-2">
                       Global Excellence Report
                     </h3>
-                    <p className="text-[7px] md:text-[8px] lg:text-[9px] tracking-widest text-slate-400">$19.99 // VOL. XII</p>
+                    <p className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] tracking-widest text-slate-400">$19.99 // VOL. XII</p>
                   </div>
 
-                  <div className="pt-2 md:pt-4 lg:pt-6 xl:pt-8 space-y-2 md:space-y-3 lg:space-y-4">
-                    <h2 className="text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl font-serif italic text-white leading-tight">
+                  <div className="pt-1 md:pt-2 lg:pt-4 xl:pt-6 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
+                    <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-serif italic text-white leading-tight">
                       Precision <br /> & Legacy
                     </h2>
-                    <p className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] tracking-widest uppercase text-primary italic max-w-[140px] md:max-w-[160px] lg:max-w-[200px] xl:max-w-[260px] ml-auto">
+                    <p className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary italic max-w-[100px] md:max-w-[130px] lg:max-w-[180px] xl:max-w-[220px] 2xl:max-w-[260px] ml-auto">
                       Architecting the future of enterprise closures.
                     </p>
-                    <div className="w-12 md:w-14 lg:w-18 xl:w-20 h-px bg-slate-600 ml-auto mt-2 md:mt-4 lg:mt-6"></div>
+                    <div className="w-10 md:w-12 lg:w-16 xl:w-20 h-px bg-slate-600 ml-auto mt-1 md:mt-2 lg:mt-4 xl:mt-6"></div>
                   </div>
 
-                  <div className="pt-2 md:pt-4 lg:pt-6 xl:pt-8 space-y-2 md:space-y-3 lg:space-y-4">
-                    <span className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] tracking-widest uppercase text-primary font-semibold block">
+                  <div className="pt-1 md:pt-2 lg:pt-4 xl:pt-6 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
+                    <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary font-semibold block">
                       The Success Rate
                     </span>
                     <div className="flex items-center justify-end">
-                      <span className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl 2xl:text-8xl font-display text-white tracking-tighter">
+                      <span className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-display text-white tracking-tighter">
                         800<span className="text-primary italic">+</span>
                       </span>
                     </div>
-                    <div className="flex items-center justify-end gap-1.5 md:gap-2 lg:gap-3">
-                      <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] tracking-widest uppercase text-slate-400">
+                    <div className="flex items-center justify-end gap-1 md:gap-1.5 lg:gap-2 xl:gap-3">
+                      <span className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] 2xl:text-[10px] tracking-widest uppercase text-slate-400">
                         High-end strategic closures
                       </span>
-                      <div className="h-px w-4 md:w-6 lg:w-8 bg-slate-600"></div>
+                      <div className="h-px w-3 md:w-4 lg:w-6 xl:w-8 bg-slate-600"></div>
                     </div>
                   </div>
                 </div>
