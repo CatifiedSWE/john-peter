@@ -7,8 +7,8 @@ export default function Navbar() {
         {/* Logo / Brand */}
         <div className="flex flex-col">
           <span className="text-xl lg:text-2xl font-serif italic text-white tracking-wide">JP</span>
-          <span className="text-[8px] lg:text-[9px] tracking-widest uppercase text-slate-500">The Architect</span>
-          <span className="text-[7px] lg:text-[8px] tracking-widest uppercase text-primary/60">Sales & Growth Mastery</span>
+          <span className="text-[8px] lg:text-[9px] tracking-widest uppercase text-slate-500">Revenue Architect</span>
+          <span className="text-[7px] lg:text-[8px] tracking-widest uppercase text-primary/60">Enterprise Sales</span>
         </div>
 
         {/* Navigation Links */}
