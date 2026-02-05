@@ -158,16 +158,16 @@ export default function Home() {
               <div className="w-full text-center space-y-6 px-4 pt-8 pb-8">
                 <div className="space-y-1">
                   <h2 className="text-xs tracking-[0.6em] uppercase font-light text-slate-400">
-                    THE ARCHITECT
+                    REVENUE ARCHITECT
                   </h2>
                   <div className="h-px w-12 bg-primary/40 mx-auto mt-3"></div>
                 </div>
                 <div className="space-y-3 pt-4">
                   <h3 className="text-5xl font-serif italic text-white leading-tight">
-                    The Anatomy <br /> of Scale
+                    Revenue <br /> Architecture
                   </h3>
                   <p className="text-[11px] tracking-widest uppercase text-primary/80 max-w-[280px] mx-auto leading-relaxed">
-                    Sales & Growth Architect based in Chennai. Engineering multi-crore revenue pipelines and orchestrating brand equity for market leaders including Titan and Maruti Suzuki.
+                    Chennai-based. Building multi-crore revenue systems for Titan, Maruti Suzuki, and enterprise decision-makers.
                   </p>
                 </div>
               </div>
