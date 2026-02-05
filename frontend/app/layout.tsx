@@ -26,8 +26,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'The Architect | Elite Business Magazine',
-  description: 'Sales & Growth Architect based in Chennai. Engineering multi-crore revenue pipelines.',
+  title: 'John Peter | Revenue Architect',
+  description: 'Driving high-value growth. Building multi-crore revenue systems for enterprise brands.',
 }
 
 export default function RootLayout({
