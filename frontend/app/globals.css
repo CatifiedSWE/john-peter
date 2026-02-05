@@ -123,6 +123,31 @@
   }
 }
 
+/* Third blob styling and animation */
+.bg-gold-blob-3 {
+  background: radial-gradient(circle, rgba(197, 160, 89, 0.18) 0%, transparent 70%);
+  filter: blur(80px);
+}
+
+.animate-blob-movement-3 {
+  animation: blob-movement-3 30s ease-in-out infinite;
+}
+
+@keyframes blob-movement-3 {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  25% {
+    transform: translate(150px, 100px) scale(1.2);
+  }
+  50% {
+    transform: translate(-100px, -80px) scale(0.9);
+  }
+  75% {
+    transform: translate(80px, -120px) scale(1.1);
+  }
+}
+
 /* Noise texture effect */
 .bg-noise {
   background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDsn9tbYDagKVbAefNBObOWlg0Dx2-k1njOKGn6C3hU70FgdVOYer3k3pbiFg6ycR1atz9v5IZ1yfjQMcEIiHtFT14hjrpSxvBSpaH_1KHSlo6B493lP4a5WPq8uGxjRzdkSFuhnVWlqOli3M7NyYPUbwgZqjhamp8r6VbSPtNFLS-iR7EPQfoXt-5j82L3o-zRCUO_Yjxftdd0mmKNEP9CMb8wQK6LMZ9EcCDNklDpFp79LHfhMg2n2KU449EFlc0ux-FtMcFrOKcb");
