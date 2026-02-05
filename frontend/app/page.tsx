@@ -55,7 +55,7 @@ export default function Home() {
 
                   <div className="pt-2 md:pt-4 lg:pt-8 xl:pt-10 2xl:pt-12 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
                     <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary font-semibold block">
-                      The Bottom Line
+                      Revenue Impact
                     </span>
                     <div className="flex items-baseline gap-1">
                       <span className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-display text-white">₹5Cr<span className="text-primary">+</span></span>
@@ -63,7 +63,7 @@ export default function Home() {
                     <div className="flex items-center gap-1.5 md:gap-2 lg:gap-3">
                       <div className="h-px w-3 md:w-4 lg:w-6 xl:w-8 bg-slate-600"></div>
                       <span className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] 2xl:text-[10px] tracking-widest uppercase text-slate-400">
-                        Direct Revenue Scaled / 2024
+                        Direct Revenue Generated / 2024
                       </span>
                     </div>
                   </div>
