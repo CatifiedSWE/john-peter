@@ -8,6 +8,11 @@ export default function Home() {
       <Navbar />
 
       <main className="relative min-h-screen w-full flex flex-col overflow-hidden bg-gold-gradient">
+        {/* Additional animated blob */}
+        <div className="absolute top-1/2 left-1/2 w-[450px] h-[450px] -translate-x-1/2 -translate-y-1/2 pointer-events-none z-0">
+          <div className="w-full h-full rounded-full bg-gold-blob-3 animate-blob-movement-3"></div>
+        </div>
+
         {/* Hero Section */}
         <section className="relative flex-grow flex items-center justify-center px-4 md:px-8 lg:px-12" data-testid="hero-section">
           {/* Background Text - Desktop: Marquee "JOHN PETER" | Mobile: Static "JOHN" above image */}
