@@ -201,7 +201,7 @@ export default function Home() {
       {/* Right vertical text - Desktop */}
       <div className="hidden lg:flex fixed right-4 xl:right-6 2xl:right-8 top-1/2 -translate-y-1/2 z-40 flex-col items-center">
         <span className="vertical-text text-[8px] xl:text-[9px] tracking-widest uppercase text-slate-600">
-          2024 // Consistent Performance // Proven Systems
+          2026 // Consistent Performance // Proven Systems
         </span>
       </div>
     </>
