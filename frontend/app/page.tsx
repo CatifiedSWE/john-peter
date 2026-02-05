@@ -187,7 +187,7 @@ export default function Home() {
       {/* Mobile side text */}
       <div className="md:hidden fixed left-4 top-1/2 -translate-y-1/2 z-40">
         <div className="vertical-text text-[8px] uppercase tracking-superwidest text-slate-700">
-          Business Mastery & Wealth Architectural Report
+          Enterprise Sales & Revenue Performance Report
         </div>
       </div>
 
