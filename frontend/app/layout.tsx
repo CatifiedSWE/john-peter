@@ -26,7 +26,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'John Peter | Revenue Architect',
+  title: 'John Peter | Sales and Revenue Architect',
   description: 'Driving high-value growth. Building multi-crore revenue systems for enterprise brands.',
 }
 
