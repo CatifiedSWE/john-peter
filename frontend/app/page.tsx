@@ -43,7 +43,7 @@ export default function Home() {
                 <div className="space-y-2 md:space-y-3 lg:space-y-5 xl:space-y-6">
                   <div className="space-y-1 md:space-y-1.5 lg:space-y-2 xl:space-y-3">
                     <span className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary font-semibold">
-                      Feature Profile
+                      Sales Architect
                     </span>
                     <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-serif italic text-white leading-tight">
                       Revenue <br /> Architecture
