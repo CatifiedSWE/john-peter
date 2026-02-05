@@ -194,7 +194,7 @@ export default function Home() {
       {/* Footer copyright - Desktop */}
       <div className="hidden md:block fixed bottom-4 lg:bottom-6 left-1/2 -translate-x-1/2 z-40">
         <p className="text-[8px] lg:text-[9px] tracking-widest uppercase text-slate-600">
-          © 2024 John Peter. Confidential.
+          © 2026 John Peter. Confidential.
         </p>
       </div>
 
