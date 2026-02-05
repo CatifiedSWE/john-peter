@@ -158,7 +158,7 @@ export default function Home() {
               <div className="w-full text-center space-y-6 px-4 pt-8 pb-8">
                 <div className="space-y-1">
                   <h2 className="text-xs tracking-[0.6em] uppercase font-light text-slate-400">
-                    REVENUE ARCHITECT
+                    SALES AND REVENUE ARCHITECT
                   </h2>
                   <div className="h-px w-12 bg-primary/40 mx-auto mt-3"></div>
                 </div>
