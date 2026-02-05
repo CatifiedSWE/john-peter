@@ -106,10 +106,10 @@ export default function Home() {
 
                   <div className="pt-1 md:pt-2 lg:pt-4 xl:pt-6 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
                     <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-serif italic text-white leading-tight">
-                      Precision <br /> & Legacy
+                      Execution <br /> & Trust
                     </h2>
                     <p className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary italic max-w-[100px] md:max-w-[130px] lg:max-w-[180px] xl:max-w-[220px] 2xl:max-w-[260px] ml-auto">
-                      Architecting the future of enterprise closures.
+                      Representing enterprise brands at the front line.
                     </p>
                     <div className="w-10 md:w-12 lg:w-16 xl:w-20 h-px bg-slate-600 ml-auto mt-1 md:mt-2 lg:mt-4 xl:mt-6"></div>
                   </div>
