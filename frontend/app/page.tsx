@@ -7,7 +7,7 @@ export default function Home() {
       {/* Navbar - Desktop only */}
       <Navbar />
 
-      <main className="relative min-h-screen w-full flex flex-col overflow-hidden">
+      <main className="relative min-h-screen w-full flex flex-col overflow-hidden bg-gold-gradient">
         {/* Hero Section */}
         <section className="relative flex-grow flex items-center justify-center px-4 md:px-8 lg:px-12" data-testid="hero-section">
           {/* Background Text - Desktop: Marquee "JOHN PETER" | Mobile: Static "JOHN" above image */}
