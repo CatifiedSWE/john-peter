@@ -96,7 +96,7 @@ export default function Home() {
                 <div className="space-y-2 md:space-y-4 lg:space-y-6 xl:space-y-8">
                   <div className="space-y-1 md:space-y-1.5 inline-block ml-auto">
                     <span className="inline-block bg-primary text-background-dark px-1 md:px-1.5 lg:px-2 xl:px-3 py-0.5 text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] font-bold tracking-widest uppercase">
-                      Portfolio 2024
+                      Portfolio 2026
                     </span>
                     <h3 className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-xs italic font-serif text-slate-500 mt-1 md:mt-1.5 lg:mt-2">
                       Enterprise Sales Record
