@@ -63,7 +63,7 @@ export default function Home() {
                     <div className="flex items-center gap-1.5 md:gap-2 lg:gap-3">
                       <div className="h-px w-3 md:w-4 lg:w-6 xl:w-8 bg-slate-600"></div>
                       <span className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] 2xl:text-[10px] tracking-widest uppercase text-slate-400">
-                        Direct Revenue Generated / 2024
+                        Direct Revenue Generated / 2026
                       </span>
                     </div>
                   </div>
