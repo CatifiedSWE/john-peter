@@ -96,12 +96,12 @@ export default function Home() {
                 <div className="space-y-2 md:space-y-4 lg:space-y-6 xl:space-y-8">
                   <div className="space-y-1 md:space-y-1.5 inline-block ml-auto">
                     <span className="inline-block bg-primary text-background-dark px-1 md:px-1.5 lg:px-2 xl:px-3 py-0.5 text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] font-bold tracking-widest uppercase">
-                      Issue 042
+                      Portfolio 2024
                     </span>
                     <h3 className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-xs italic font-serif text-slate-500 mt-1 md:mt-1.5 lg:mt-2">
-                      Global Excellence Report
+                      Enterprise Sales Record
                     </h3>
-                    <p className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] tracking-widest text-slate-400">$19.99 // VOL. XII</p>
+                    <p className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] tracking-widest text-slate-400">B2B // B2C // TIER-1</p>
                   </div>
 
                   <div className="pt-1 md:pt-2 lg:pt-4 xl:pt-6 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
