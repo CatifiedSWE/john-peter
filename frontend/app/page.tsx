@@ -4,9 +4,6 @@ import Navbar from './components/Navbar'
 export default function Home() {
   return (
     <>
-      {/* Fixed noise overlay */}
-      <div className="fixed inset-0 bg-noise z-50 pointer-events-none"></div>
-
       {/* Navbar - Desktop only */}
       <Navbar />
 
