@@ -36,8 +36,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className={`dark ${bodoniModa.variable} ${playfairDisplay.variable} ${inter.variable}`}>
-      <body className="bg-background-dark text-slate-200 font-sans selection:bg-primary selection:text-white overflow-x-hidden">
+    <html lang="en" className={`dark ${bodoniModa.variable} ${playfairDisplay.variable} ${inter.variable} scroll-smooth`}>
+      <body suppressHydrationWarning className="bg-background-dark text-slate-200 font-sans selection:bg-primary selection:text-white overflow-x-hidden">
         {children}
       </body>
     </html>
