@@ -93,7 +93,7 @@ export default function Navbar() {
                   <span className="font-serif italic text-white text-xl md:text-2xl group-hover:text-primary transition-colors">JP</span>
                 </a>
                 <div className="hidden md:block w-px h-5 bg-white/20"></div>
-                <span className="text-[10px] tracking-widest uppercase text-white/50 hidden lg:block">Sales Architect</span>
+                <span className="text-[10px] tracking-widest uppercase text-white/50 hidden lg:block">Revenue Strategist</span>
               </div>
 
               {/* Desktop Navigation */}
@@ -184,7 +184,7 @@ export default function Navbar() {
               transition={{ delay: 0.6 }}
               className="absolute bottom-12 text-[10px] tracking-widest uppercase text-white/30"
             >
-              John Peter — Sales Architect
+              John Peter — Revenue Strategist
             </motion.div>
           </motion.div>
         )}
@@ -192,4 +192,3 @@ export default function Navbar() {
     </>
   )
 }
-

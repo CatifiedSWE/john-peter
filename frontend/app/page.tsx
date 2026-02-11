@@ -75,15 +75,15 @@ export default function Home() {
                   <div className="space-y-3 md:space-y-5 lg:space-y-6 xl:space-y-8">
                     <div className="space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
                       <div className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] 2xl:text-xs tracking-widest uppercase text-primary font-semibold">
-                        <SimpleFadeIn delay={2.6} className="inline-block">Feature Profile</SimpleFadeIn>
+                        <SimpleFadeIn delay={2.6} className="inline-block">Executive Profile</SimpleFadeIn>
                       </div>
                       <h2 className="text-xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl font-serif italic text-white leading-tight">
-                        <BlurRotateReveal text="Sales" delay={1.8} enableBlur={false} enableRotation={false} /> <br />
-                        <BlurRotateReveal text="Architect" delay={1.9} enableBlur={false} enableRotation={false} />
+                        <BlurRotateReveal text="Revenue" delay={1.8} enableBlur={false} enableRotation={false} /> <br />
+                        <BlurRotateReveal text="Strategist" delay={1.9} enableBlur={false} enableRotation={false} />
                       </h2>
                       <SimpleFadeIn delay={2.6}>
                         <p className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] 2xl:text-xs tracking-widest uppercase text-slate-400 max-w-[140px] md:max-w-[180px] lg:max-w-[240px] xl:max-w-[300px] 2xl:max-w-[340px] leading-relaxed">
-                          Building multi-crore pipelines. Closing enterprise deals.
+                          Architecting enterprise growth systems. Structuring high-value partnerships.
                         </p>
                       </SimpleFadeIn>
                     </div>
@@ -136,22 +136,22 @@ export default function Home() {
                   <div className="space-y-3 md:space-y-5 lg:space-y-6 xl:space-y-8">
                     <SimpleFadeIn delay={2.6} className="space-y-1.5 md:space-y-2 inline-block ml-auto">
                       <span className="inline-block bg-primary text-background-dark px-1.5 md:px-2 lg:px-3 xl:px-4 py-0.5 text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] 2xl:text-xs font-bold tracking-widest uppercase">
-                        Portfolio 2026
+                        Strategic Portfolio
                       </span>
                       <h3 className="text-[9px] md:text-[10px] lg:text-[11px] xl:text-[13px] italic font-serif text-slate-500 mt-1.5 md:mt-2 lg:mt-2.5">
-                        Enterprise Sales Record
+                        Revenue Architecture & Growth
                       </h3>
-                      <p className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] tracking-widest text-slate-400">B2B // B2C // TIER-1</p>
+                      <p className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] tracking-widest text-slate-400">ENTERPRISE // STRATEGY // PARTNERSHIPS</p>
                     </SimpleFadeIn>
 
                     <div className="pt-2 md:pt-4 lg:pt-6 xl:pt-8 space-y-2 md:space-y-3 lg:space-y-4 xl:space-y-5">
                       <h2 className="text-xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl font-serif italic text-white leading-tight">
-                        <BlurRotateReveal text="Execution" delay={1.8} enableBlur={false} enableRotation={false} /> <br />
-                        <BlurRotateReveal text="& Trust" delay={1.9} enableBlur={false} enableRotation={false} />
+                        <BlurRotateReveal text="Strategy" delay={1.8} enableBlur={false} enableRotation={false} /> <br />
+                        <BlurRotateReveal text="& Impact" delay={1.9} enableBlur={false} enableRotation={false} />
                       </h2>
                       <SimpleFadeIn delay={2.6}>
                         <p className="text-[8px] md:text-[9px] lg:text-[10px] xl:text-[11px] 2xl:text-xs tracking-widest uppercase text-primary italic max-w-[120px] md:max-w-[150px] lg:max-w-[200px] xl:max-w-[240px] 2xl:max-w-[280px] ml-auto">
-                          Representing enterprise brands at the front line.
+                          Driving sustainable revenue growth for market leaders.
                         </p>
                         <div className="w-12 md:w-16 lg:w-20 xl:w-24 h-px bg-slate-600 ml-auto mt-2 md:mt-3 lg:mt-5 xl:mt-8"></div>
                       </SimpleFadeIn>
@@ -159,7 +159,7 @@ export default function Home() {
 
                     <div className="pt-1 md:pt-2 lg:pt-4 xl:pt-6 space-y-1.5 md:space-y-2 lg:space-y-3 xl:space-y-4">
                       <div className="text-[7px] md:text-[8px] lg:text-[9px] xl:text-[10px] 2xl:text-[11px] tracking-widest uppercase text-primary font-semibold block">
-                        <SimpleFadeIn delay={2.6} className="inline-block">Deal Execution</SimpleFadeIn>
+                        <SimpleFadeIn delay={2.6} className="inline-block">Partnership Volume</SimpleFadeIn>
                       </div>
                       <div className="flex items-center justify-end">
                         <span className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-display text-white tracking-tighter">
@@ -169,7 +169,7 @@ export default function Home() {
                       </div>
                       <SimpleFadeIn delay={2.6} className="flex items-center justify-end gap-1 md:gap-1.5 lg:gap-2 xl:gap-3">
                         <span className="text-[6px] md:text-[7px] lg:text-[8px] xl:text-[9px] 2xl:text-[10px] tracking-widest uppercase text-slate-400">
-                          Enterprise Closures
+                          Strategic Engagements
                         </span>
                         <div className="h-px w-3 md:w-4 lg:w-6 xl:w-8 bg-slate-600"></div>
                       </SimpleFadeIn>
@@ -205,7 +205,7 @@ export default function Home() {
                   <div className="space-y-1">
                     <SimpleFadeIn delay={2.0}>
                       <h2 className="text-xs tracking-[0.6em] uppercase font-light text-slate-400">
-                        Sales Architect
+                        Revenue Strategist
                       </h2>
                       <div className="h-px w-12 bg-primary/40 mx-auto mt-3"></div>
                     </SimpleFadeIn>
@@ -216,7 +216,7 @@ export default function Home() {
                     </h3>
                     <SimpleFadeIn delay={2.0}>
                       <p className="text-[11px] tracking-widest uppercase text-primary/80 max-w-[280px] mx-auto leading-relaxed">
-                        Chennai-based. Building multi-crore revenue systems for Titan, Maruti Suzuki, and enterprise decision-makers.
+                        Chennai-based. Architecting revenue systems for Titan, Maruti Suzuki, and enterprise decision-makers.
                       </p>
                     </SimpleFadeIn>
                   </div>
@@ -256,7 +256,7 @@ export default function Home() {
             {/* Section Label */}
             <div className="text-center mb-8 md:mb-12">
               <span className="text-[9px] md:text-[10px] lg:text-[11px] tracking-superwidest uppercase text-black font-semibold">
-                Trusted By
+                Strategic Partners
               </span>
               <div className="h-px w-16 bg-primary/40 mx-auto mt-4"></div>
             </div>
@@ -372,16 +372,16 @@ export default function Home() {
                 className="group relative border-t border-white/10 pt-8 transition-colors duration-500 hover:border-primary/50"
               >
                 <span className="text-[9px] tracking-widest uppercase text-slate-500 mb-2 block group-hover:text-primary transition-colors">
-                  High-Value Negotiation
+                  Strategic Client Partnership
                 </span>
                 <h3 className="text-3xl md:text-4xl font-serif text-white mb-4">Titan</h3>
                 <p className="text-sm md:text-base text-slate-400 leading-relaxed font-light mb-6">
-                  Managed premium customer requirements for high-ticket horology and accessories. Executed consultative sales strategies to close complex transactions, focusing on value articulation over price negotiation.
+                  Directed high-value client engagements for luxury portfolios. Structured consultative frameworks to align product value with client aspirations, maximizing revenue per interaction.
                 </p>
                 <div className="flex items-center gap-2 text-[10px] tracking-widest uppercase text-white/40">
-                  <span>Consumer Retail</span>
+                  <span>Luxury Retail</span>
                   <span className="w-1 h-1 rounded-full bg-primary"></span>
-                  <span>Premium</span>
+                  <span>High Net Worth</span>
                 </div>
               </motion.div>
 
@@ -394,16 +394,16 @@ export default function Home() {
                 className="group relative border-t border-white/10 pt-8 transition-colors duration-500 hover:border-primary/50"
               >
                 <span className="text-[9px] tracking-widest uppercase text-slate-500 mb-2 block group-hover:text-primary transition-colors">
-                  Brand Storytelling & Retention
+                  Client Lifecycle Strategy
                 </span>
                 <h3 className="text-3xl md:text-4xl font-serif text-white mb-4">Kama Ayurveda</h3>
                 <p className="text-sm md:text-base text-slate-400 leading-relaxed font-light mb-6">
-                  Translate ancient ayurvedic formulations into modern luxury lifestyle needs. Built long-term client retention through educational selling and personalized regimen curation for high-net-worth individuals.
+                  Orchestrated long-term client retention strategies for premium wellness. Designed personalized engagement journeys that increased client lifetime value and brand loyalty.
                 </p>
                 <div className="flex items-center gap-2 text-[10px] tracking-widest uppercase text-white/40">
                   <span>Luxury Wellness</span>
                   <span className="w-1 h-1 rounded-full bg-primary"></span>
-                  <span>Retention</span>
+                  <span>Loyalty Systems</span>
                 </div>
               </motion.div>
 
@@ -416,16 +416,16 @@ export default function Home() {
                 className="group relative border-t border-white/10 pt-8 transition-colors duration-500 hover:border-primary/50"
               >
                 <span className="text-[9px] tracking-widest uppercase text-slate-500 mb-2 block group-hover:text-primary transition-colors">
-                  Objection Handling & Closing
+                  Corporate Negotiation & Deal Structuring
                 </span>
                 <h3 className="text-3xl md:text-4xl font-serif text-white mb-4">Maruti Suzuki</h3>
                 <p className="text-sm md:text-base text-slate-400 leading-relaxed font-light mb-6">
-                  Navigated highly competitive automotive landscape. Specialized in overcoming feature-comparison objections and financing hurdles to drive volume sales while maintaining high customer satisfaction scores.
+                  Led complex negotiations in a high-volume automotive sector. Engineered deal structures to overcome financial barriers and optimize conversion rates for corporate and individual clients.
                 </p>
                 <div className="flex items-center gap-2 text-[10px] tracking-widest uppercase text-white/40">
                   <span>Automotive</span>
                   <span className="w-1 h-1 rounded-full bg-primary"></span>
-                  <span>Volume</span>
+                  <span>Scale Operations</span>
                 </div>
               </motion.div>
 
@@ -438,16 +438,16 @@ export default function Home() {
                 className="group relative border-t border-white/10 pt-8 transition-colors duration-500 hover:border-primary/50"
               >
                 <span className="text-[9px] tracking-widest uppercase text-slate-500 mb-2 block group-hover:text-primary transition-colors">
-                  Cross-Selling & Portfolio Growth
+                  Revenue Optimization Architecture
                 </span>
                 <h3 className="text-3xl md:text-4xl font-serif text-white mb-4">Lifestyle</h3>
                 <p className="text-sm md:text-base text-slate-400 leading-relaxed font-light mb-6">
-                  Optimized average transaction value through strategic cross-category pairing. Analyzed buying patterns to introduce complementary product lines, significantly increasing basket size per customer interaction.
+                  Implemented strategic cross-category growth frameworks. Analyzed consumer behavior to deploy revenue maximization tactics, significantly elevating average transaction value.
                 </p>
                 <div className="flex items-center gap-2 text-[10px] tracking-widest uppercase text-white/40">
                   <span>Retail Fashion</span>
                   <span className="w-1 h-1 rounded-full bg-primary"></span>
-                  <span>Growth</span>
+                  <span>Revenue Systems</span>
                 </div>
               </motion.div>
 
@@ -474,7 +474,7 @@ export default function Home() {
                   <BlurRotateReveal text="John Peter" delay={0.3} staggerDuration={0.025} />
                 </h2>
                 <div className="text-lg md:text-xl text-slate-300 font-light">
-                  <BlurRotateReveal text="Sales & Growth Specialist" delay={0.5} wordLevel={true} enableRotation={false} staggerDuration={0.025} />
+                  <BlurRotateReveal text="Revenue & Growth Strategist" delay={0.5} wordLevel={true} enableRotation={false} staggerDuration={0.025} />
                 </div>
                 <SimpleFadeIn delay={0.7} className="flex items-center justify-center gap-4 mt-6 text-sm text-slate-400">
                   <span>Chennai, India</span>
@@ -486,7 +486,7 @@ export default function Home() {
               {/* Bio */}
               <div className="prose prose-invert prose-lg max-w-none">
                 <p className="text-base md:text-lg text-slate-300 leading-relaxed text-center">
-                  A sales professional with frontline brand representation experience across Titan, Lifestyle, Kama Ayurveda, and Maruti Suzuki. Specialized in high-value negotiation, customer acquisition and retention, and objection handling at the decision-maker level.
+                  A strategic revenue partner driving growth for industry leaders like Titan, Lifestyle, Kama Ayurveda, and Maruti Suzuki. Expert in designing high-conversion systems, structuring complex negotiations, and building enduring enterprise relationships.
                 </p>
               </div>
 
@@ -499,29 +499,29 @@ export default function Home() {
                   <div className="space-y-4">
                     <div className="flex items-start gap-3">
                       <span className="text-primary text-xs mt-1">—</span>
-                      <span className="text-sm md:text-base text-slate-300">High-value negotiation and deal closure</span>
+                      <span className="text-sm md:text-base text-slate-300">Strategic Negotiation & Deal Structuring</span>
                     </div>
                     <div className="flex items-start gap-3">
                       <span className="text-primary text-xs mt-1">—</span>
-                      <span className="text-sm md:text-base text-slate-300">Customer acquisition and retention</span>
+                      <span className="text-sm md:text-base text-slate-300">Enterprise Relationship Management</span>
                     </div>
                     <div className="flex items-start gap-3">
                       <span className="text-primary text-xs mt-1">—</span>
-                      <span className="text-sm md:text-base text-slate-300">Upselling and cross-selling with brand alignment</span>
+                      <span className="text-sm md:text-base text-slate-300">Revenue Optimization Strategy</span>
                     </div>
                   </div>
                   <div className="space-y-4">
                     <div className="flex items-start gap-3">
                       <span className="text-primary text-xs mt-1">—</span>
-                      <span className="text-sm md:text-base text-slate-300">Objection handling at decision-maker level</span>
+                      <span className="text-sm md:text-base text-slate-300">Complex Problem Solving</span>
                     </div>
                     <div className="flex items-start gap-3">
                       <span className="text-primary text-xs mt-1">—</span>
-                      <span className="text-sm md:text-base text-slate-300">Pipeline discipline and follow-up control</span>
+                      <span className="text-sm md:text-base text-slate-300">Revenue Pipeline Architecture</span>
                     </div>
                     <div className="flex items-start gap-3">
                       <span className="text-primary text-xs mt-1">—</span>
-                      <span className="text-sm md:text-base text-slate-300">Cross-functional coordination</span>
+                      <span className="text-sm md:text-base text-slate-300">Cross-Functional Leadership</span>
                     </div>
                   </div>
                 </div>
@@ -552,7 +552,7 @@ export default function Home() {
                 <SimpleFadeIn delay={0.4} className="h-px w-20 bg-slate-700 mx-auto"></SimpleFadeIn>
                 <SimpleFadeIn delay={0.6}>
                   <p className="text-[10px] md:text-[11px] tracking-superwidest uppercase text-slate-500">
-                    Revenue Generated
+                    Revenue Impact
                   </p>
                 </SimpleFadeIn>
               </div>
@@ -565,7 +565,7 @@ export default function Home() {
                 </div>
                 <div className="h-px w-20 bg-slate-700 mx-auto"></div>
                 <p className="text-[10px] md:text-[11px] tracking-superwidest uppercase text-slate-500">
-                  Deals Closed
+                  Engagements Delivered
                 </p>
               </div>
 
@@ -586,12 +586,12 @@ export default function Home() {
               {/* Metric 4 */}
               <div className="text-center space-y-6">
                 <div className="text-3xl md:text-4xl lg:text-5xl font-serif italic text-white leading-none pt-8">
-                  <BlurRotateReveal text="Medium to Large" delay={0.8} staggerDuration={0.025} />
+                  <BlurRotateReveal text="Strategic Enterprise" delay={0.8} staggerDuration={0.025} />
                 </div>
                 <SimpleFadeIn delay={1.0} className="h-px w-20 bg-slate-700 mx-auto"></SimpleFadeIn>
                 <SimpleFadeIn delay={1.2}>
                   <p className="text-[10px] md:text-[11px] tracking-superwidest uppercase text-slate-500">
-                    Average Deal Size
+                    Deal Complexity
                   </p>
                 </SimpleFadeIn>
               </div>
@@ -614,7 +614,7 @@ export default function Home() {
             <div className="space-y-8">
               <SimpleFadeIn>
                 <p className="text-lg md:text-xl text-slate-300 font-light">
-                  For inquiries and opportunities
+                  For strategic inquiries and partnership opportunities
                 </p>
               </SimpleFadeIn>
               <SlideUpBlur delay={0.2} className="inline-block">
